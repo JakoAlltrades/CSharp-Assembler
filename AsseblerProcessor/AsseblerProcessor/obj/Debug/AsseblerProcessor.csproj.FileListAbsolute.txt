@@ -1,0 +1,7 @@
+C:\Users\jprirm\Documents\GitHub\CSharp-Assembler\AsseblerProcessor\AsseblerProcessor\bin\Debug\AsseblerProcessor.exe.config
+C:\Users\jprirm\Documents\GitHub\CSharp-Assembler\AsseblerProcessor\AsseblerProcessor\bin\Debug\AsseblerProcessor.exe
+C:\Users\jprirm\Documents\GitHub\CSharp-Assembler\AsseblerProcessor\AsseblerProcessor\bin\Debug\AsseblerProcessor.pdb
+C:\Users\jprirm\Documents\GitHub\CSharp-Assembler\AsseblerProcessor\AsseblerProcessor\obj\Debug\AsseblerProcessor.csprojResolveAssemblyReference.cache
+C:\Users\jprirm\Documents\GitHub\CSharp-Assembler\AsseblerProcessor\AsseblerProcessor\obj\Debug\AsseblerProcessor.csproj.CoreCompileInputs.cache
+C:\Users\jprirm\Documents\GitHub\CSharp-Assembler\AsseblerProcessor\AsseblerProcessor\obj\Debug\AsseblerProcessor.exe
+C:\Users\jprirm\Documents\GitHub\CSharp-Assembler\AsseblerProcessor\AsseblerProcessor\obj\Debug\AsseblerProcessor.pdb

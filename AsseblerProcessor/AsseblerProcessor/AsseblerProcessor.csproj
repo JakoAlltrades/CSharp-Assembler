@@ -43,15 +43,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\AssemblyMachine.cs" />
-    <Compile Include="Models\Tokens\OperationToken.cs" />
-    <Compile Include="Models\Tokens\Token.cs" />
-    <Compile Include="Models\Tokens\CondToken.cs" />
+    <Compile Include="Models\TokenCreator.cs" />
+    <Compile Include="Models\TokenReader.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="bin\Debug\Instructions.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

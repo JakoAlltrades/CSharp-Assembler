@@ -8,7 +8,11 @@ namespace AsseblerProcessor.Models
 {
     public class AssemblyMachine
     {
-        public string fileLocation;
+        public List<String> instructions { get; set; } = new List<string>();
 
+        public void addInstruction(string line)
+        {
+            instructions.Add(line); 
+        }
     }
 }
